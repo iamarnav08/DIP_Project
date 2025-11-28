@@ -1,6 +1,6 @@
 # DIP_Project
 # Latest status
-- Use new_jacobi.py for anything to be done from now on.
+- Use og_equation_solver for anything to be done from now on.
 - We'll need step-wise visualisations.
 - HAVE TO MAKE CODE MODULAR, PRESENTABLE BEFORE THE DEADLINE.
 - I have added a script for visualizing optical flow, which we will need for multiple visualizations in our presentation.
