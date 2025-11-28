@@ -1,6 +1,13 @@
 # DIP_Project
+# Latest status
+- Use og_equation_solver for anything to be done from now on.
+- I have added a script for visualizing optical flow, which we will need for multiple visualizations in our presentation.
+- Read the presentation plan I have added on the Notion page.
+- READ PAPER
+- Understand the visualization method. (VERY IMPORTANT!)
+- Need to improve the code a lot, even now.
 
-
+## The following is old.
 trial.py is what I've done till now.
 Did not get time to code on my own, just prompted a few things to get results.
 So, the current implementation might not be completely faithful to the paper.
